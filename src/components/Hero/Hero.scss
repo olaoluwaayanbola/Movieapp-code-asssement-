@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&display=swap');
+.heroContainer {
+  position: relative;
+  width: 100%;
+  height: 550px;
+  left: 0px;
+  background-repeat: no-repeat;
+  background-color: aqua;
+  p {
+    position: absolute;
+    width: 14vh;
+    height: 282px;
+    left: 77px;
+    top: 40px;
+    font-family: 'DM Sans', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 72px;
+    line-height: 94px;
+    letter-spacing: -0.05em;
+    color: #ffffff;
+  }
+}

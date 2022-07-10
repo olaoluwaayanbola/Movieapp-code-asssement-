@@ -1,0 +1,20 @@
+.HeaderContainer {
+  position: relative;
+  height: 140px;
+  width: 100%;
+  background: #292929;
+  margin-bottom: 0;
+  .myTestApp {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    width: 193px;
+    height: 60px;
+    left: 77px;
+    top: 40px;
+    font-size: 33px;
+    color: #ffffff;
+    border: 1px solid #ffffff;
+  }
+}
